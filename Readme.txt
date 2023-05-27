@@ -1,7 +1,7 @@
 ABSTRACT:-
-In this project, I have tried to build an Student result management website, which can simulate all the basic
+In this project, we have tried to build an Student result management website, which can simulate all the basic
 controls that an actual required of store result website has.
-I have used eclipse oxygen 3 , java 1.8, tomcat 9.0 and MySQL 5.7.31
+we have used eclipse oxygen 3 , java 1.8, tomcat 9.0 and MySQL 5.7.31
 
 
 INTRODUCTION:-
@@ -45,5 +45,5 @@ it can be safelyconcluded that the product is a highly efficient GUI based
 component. This application isworking properly and meeting to all user requirements.
 This component can be easily plugged in many other systems.
 
-Developed By Rahul Patidar.
-NIT Raipur Student.
+Developed By Team-08.
+VNRVJIET STudents.
